@@ -1,0 +1,68 @@
+<style type="text/css">
+h1,h3{
+  color: yellow;
+}
+header{
+background-color: red;
+width: 43%;
+height: 150px;
+color: yellow;
+}
+table{
+  border-width: 5px;
+  border-style: groove;
+  border-color: #336699;
+  }
+td{
+  width: 180px;
+  height: 130px;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 180px;
+  height: 130px;
+}
+#een{
+  background-color: #006600;
+  color: silver;
+  }
+#twee{
+  background-color: #CC99FF;
+  color: navy;
+}
+#drie{
+  background-color: #9999FF;
+  color: blue;
+}
+#vier{
+  background-color: #FF0000;
+  color: yellow;
+}
+#vijf{
+  background-color: #A52A2A;
+  color: whitesmoke;
+}
+#zes{
+  background-color: #33CCFF;
+  color: brown;
+}
+#zeven{
+  background-color: #FFFFCC;
+  color: black;
+}
+#acht{
+  background-color: #FFFF66;
+  color: red;
+}
+body{
+  background-color: #E0FFFF;
+}
+footer{
+background-color: blue;
+width: 43%;
+height: 150px;
+color: yellow;
+}
+</style>
